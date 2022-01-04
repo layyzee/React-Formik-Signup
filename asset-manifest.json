@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Formik-Signup/static/css/main.647078a0.css",
+    "main.js": "/React-Formik-Signup/static/js/main.55a76615.js",
+    "static/js/787.67788a6e.chunk.js": "/React-Formik-Signup/static/js/787.67788a6e.chunk.js",
+    "static/media/rocket.png": "/React-Formik-Signup/static/media/rocket.4bf2b4a8a4100891bbf5.png",
+    "index.html": "/React-Formik-Signup/index.html",
+    "main.647078a0.css.map": "/React-Formik-Signup/static/css/main.647078a0.css.map",
+    "main.55a76615.js.map": "/React-Formik-Signup/static/js/main.55a76615.js.map",
+    "787.67788a6e.chunk.js.map": "/React-Formik-Signup/static/js/787.67788a6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647078a0.css",
+    "static/js/main.55a76615.js"
+  ]
+}
